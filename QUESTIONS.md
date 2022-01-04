@@ -1,6 +1,6 @@
 
 
-### Q. you have an array of n number of depth containing different types of elements in it. you have to show that in a react page. 
+### Q1. you have an array of n number of depth containing different types of elements in it. you have to show that in a react page. 
 
 ```
 const array = [1,2, [10,12], {name: "appscrip"}, ["javascript", "typescript"], "python", [123,212, [343,444,555,[999,888,7777],["code"]],{location: "Bengaluru"},[160062]],3,4]
@@ -36,6 +36,41 @@ const array = [1,2, [10,12], {name: "appscrip"}, ["javascript", "typescript"], "
 show this output in react page
 
 `hint: you can flat that array into 1 depth and use map() to render <li> in jsx.`
+
+<br/>
+<br/>
+
+### Q2. Create a form with proper validation
+
+form has four intputs -
+
+### username
+
+- min: 4 characters
+- max: 10 characters
+- type: text
+
+### email
+- should be a valid email
+
+### password
+- should contain Uppercase, Lowercase, Number
+- min: 4 characters
+- should have a view/hide button 
+
+### gender
+- there will be three options - Male | Female | Other
+- type: select (dropdown)
+
+there will be a submit button <button>Submit</button><br/>
+on submit it should check for the validation of form 
+if any invalid field then it should show an alert text <br/>
+`Form is not valid!`
+
+on blurring out (cursor out from input box) it should check for the validation of that particular input box and show alert text if invalid.
+if empty then it should show `This field is required!`
+
+
 
 <br/>
 <br/>
