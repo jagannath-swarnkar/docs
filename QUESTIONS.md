@@ -70,7 +70,25 @@ if any invalid field then it should show an alert text <br/>
 on blurring out (cursor out from input box) it should check for the validation of that particular input box and show alert text if invalid.
 if empty then it should show `This field is required!`
 
+<br/>
+<br/>
 
+# Task 3
+
+Use this api and show users list in react js
+API_URL = [https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg](https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg)
+
+Your UI should look like this
+![https://imgur.com/hGLZZNH.png](https://imgur.com/hGLZZNH.png)
+
+- on clicking to the picture it should open a new tab with user's profile page 
+- you will get this users profile html page in above api `link - html`
+
+<br/>
+<br/>
+
+# Task 4 (advance)
+get the task here in this link: https://docs.google.com/document/d/17H_nUc4jga_vbwla-8LxpC4SnArYabJ7MY-n_wCKtQE/edit?usp=sharing
 
 <br/>
 <br/>
