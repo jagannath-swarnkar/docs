@@ -76,7 +76,9 @@ if empty then it should show `This field is required!`
 # Task 3
 
 Use this api and show users list in react js
-API_URL = [https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg](https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg)
+```
+API_URL = https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg
+```
 
 Your UI should look like this
 ![https://imgur.com/hGLZZNH.png](https://imgur.com/hGLZZNH.png)
