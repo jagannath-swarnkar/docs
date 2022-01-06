@@ -92,6 +92,43 @@ get the task here in this link: https://docs.google.com/document/d/17H_nUc4jga_v
 
 <br/>
 <br/>
+
+# Task 5 (very basic - logical): Check for Object
+
+```
+var obj = {name:"jagan", age: 23};
+var arr = [1,2,3,4,5];
+var str = "Jagan";
+var num = 18;
+
+const isObject = (param) => {
+// it should return true if param is an object (dictionary) else return false
+
+}
+
+isObject(obj) // true
+isObject(num) // false
+isObject(arr) // false
+isObject(str) // false
+```
+
+<br/>
+<br/>
+
+# Task 6 (very basic - logical): Check if the number is integer or not
+```
+const isInt = (param) => {
+// it should return if param is interger or not 
+}
+
+isInt(4) //true
+isInt(12.45) // false
+isInt(18) // true
+isInt(18.3) // false
+
+```
+<br/>
+<br/>
 <address>
  By: Jagan
  </address>
