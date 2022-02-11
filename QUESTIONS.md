@@ -132,7 +132,7 @@ isInt(18.3) // false
 <br/>
 <br/>
 
-# Task 6 (very basic - HTML/CSS): Make 1 HTML/CSS file linked that and put 1 .(dot) and center that to the screen plus I need black background and dot to white color.
+# Task 7 (very basic - HTML/CSS): Make 1 HTML/CSS file linked that and put 1 .(dot) and center that to the screen plus I need black background and dot to white color.
 
 ### Ask him to not use emmet for this simple code.
 
