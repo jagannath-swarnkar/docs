@@ -80,12 +80,23 @@ Use this api and show users list in react js
 API_URL = https://api.unsplash.com/search/users?query=nas&client_id=PWuLcm4KmXnbpPzmhzKRrI8iPFZt1gry5kar_-lu7lg
 ```
 
+
 Your UI should look like this
 ![https://imgur.com/hGLZZNH.png](https://imgur.com/hGLZZNH.png)
 
+```
 - on clicking to the picture it should open a new tab with user's profile page 
 - you will get this users profile html page in above api `link - html`
-
+- you have to store only these data in state
+{
+ profilePic: string,
+ profileUrl: string,
+ username: string,
+ fullname: string,
+ likes: string,
+ postId: string
+}
+````
 <br/>
 <br/>
 
