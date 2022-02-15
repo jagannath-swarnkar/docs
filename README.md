@@ -47,6 +47,8 @@ always crate your separate branch and work on that. once done commit, push, and 
 `Title`: commit title <br/>
 `Description`: commit description <br/>
 
+## illustration of CI/CD
+
 <!-- ![illustration of CI/CD](https://imgur.com/sHlJmWb.png?row=true) -->
 <img src="https://imgur.com/sHlJmWb.png" height="500px" alt="illustration of CI/CD">
 <address>
