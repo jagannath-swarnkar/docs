@@ -47,6 +47,27 @@ always crate your separate branch and work on that. once done commit, push, and 
 `Title`: commit title <br/>
 `Description`: commit description <br/>
 
+## git instructions
+- `git status` - check git status 
+- `git branch` - to check active branches
+- `git branch -a` - to list out all branches
+
+- `git branch <branch_name>` - to create a new branch
+
+- `git checkout <branch_name>` - to switch to an existing branch
+- `git checkout -b <branch_name>` - to create & switch to a new branch
+
+
+- `git add <file_name>` - to stage one file to local git
+- `git add .` - to stage all files to local git
+
+- `git commit` - to add commit message
+- `git commit -m <commit_message>` - to add single line commit message
+
+- `git push` - to push code to git platform (github/bitbucket/gitlab)
+
+- `git pull` - to pull latest code of current branch from online git platform
+
 ## illustration of CI/CD
 
 <!-- ![illustration of CI/CD](https://imgur.com/sHlJmWb.png?row=true) -->
