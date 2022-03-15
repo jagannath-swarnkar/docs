@@ -97,6 +97,51 @@ Your UI should look like this
  postId: string
 }
 ````
+Your output will be like this
+```
+[
+  {
+    "profilePic": "https://images.unsplash.com/profile-1620326900500-43f92c1387dbimage?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32",
+    "profileUrl": "https://unsplash.com/@nabil_",
+    "userId": "PI1IJ-z5hMo",
+    "username": "nabil_",
+    "fullname": "Nab Nas",
+    "totalLikes": 9
+  },
+  {
+    "profilePic": "https://images.unsplash.com/profile-1602933627661-42ddad0c213dimage?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32",
+    "profileUrl": "https://unsplash.com/@nas10",
+    "userId": "KVVUIj4NYeg",
+    "username": "nas10",
+    "fullname": "Nas Sinatra",
+    "totalLikes": 2
+  },
+  {
+    "profilePic": "https://images.unsplash.com/profile-fb-1523849512-69ddff279d9b.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32",
+    "profileUrl": "https://unsplash.com/@nassimo",
+    "userId": "pMjmfLeZneA",
+    "username": "nassimo",
+    "fullname": "Nas Mato",
+    "totalLikes": 0
+  },
+  {
+    "profilePic": "https://images.unsplash.com/profile-fb-1578146030-f2925eef37b8.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32",
+    "profileUrl": "https://unsplash.com/@nas_dino",
+    "userId": "NMK9aTqg738",
+    "username": "nas_dino",
+    "fullname": "Nas Dino",
+    "totalLikes": 5
+  },
+  {
+    "profilePic": "https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&cs=tinysrgb&fit=crop&h=32&w=32",
+    "profileUrl": "https://unsplash.com/@astro_amature1980",
+    "userId": "V4523LhRxy0",
+    "username": "astro_amature1980",
+    "fullname": "Der Nas",
+    "totalLikes": 0
+  }
+]
+```
 <br/>
 <br/>
 
@@ -147,7 +192,8 @@ isInt(18.3) // false
 
 ### Ask him to not use emmet for this simple code.
 
-![Solution](/solution_task6.png)
+Example: `https://imgur.com/mPfpUgs.png`
+
 <br/>
 <br/>
 
