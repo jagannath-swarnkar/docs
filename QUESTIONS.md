@@ -98,6 +98,7 @@ Your UI should look like this
 }
 ````
 Your output will be like this
+simple output: 
 ```
 [
   {
@@ -141,6 +142,102 @@ Your output will be like this
     "totalLikes": 0
   }
 ]
+```
+
+another output can be like this 
+```
+[
+    {
+        nabil_: {
+            id: "PI1IJ-z5hMo",
+            name: "Nab Nas",
+            profilePic: "https://images.unsplash.com/profile-1620326900500-43f92c1387dbimage?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/nabil_",
+            totalPhotos: 39,
+        },
+    },
+    {
+        nas10: {
+            id: "KVVUIj4NYeg",
+            name: "Nas Sinatra",
+            profilePic: "https://images.unsplash.com/profile-1602933627661-42ddad0c213dimage?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/nas10",
+            totalPhotos: 15,
+        },
+    },
+    {
+        nassimo: {
+            id: "pMjmfLeZneA",
+            name: "Nas Mato",
+            profilePic: "https://images.unsplash.com/profile-fb-1523849512-69ddff279d9b.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/nassimo",
+            totalPhotos: 6,
+        },
+    },
+    {
+        nas_dino: {
+            id: "NMK9aTqg738",
+            name: "Nas Dino",
+            profilePic: "https://images.unsplash.com/profile-fb-1578146030-f2925eef37b8.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/nas_dino",
+            totalPhotos: 5,
+        },
+    },
+    {
+        astro_amature1980: {
+            id: "V4523LhRxy0",
+            name: "Der Nas",
+            profilePic: "https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/astro_amature1980",
+            totalPhotos: 4,
+        },
+    },
+    {
+        marnas: {
+            id: "EfCuPKg_yas",
+            name: "Maryam Nas",
+            profilePic: "https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/marnas",
+            totalPhotos: 3,
+        },
+    },
+    {
+        alsaghir: {
+            id: "hBydAtOmWLY",
+            name: "Nas Ser",
+            profilePic: "https://images.unsplash.com/profile-fb-1477970012-d0d869580c0f.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/alsaghir",
+            totalPhotos: 3,
+        },
+    },
+    {
+        cylnnas: {
+            id: "boGMcGPMXrA",
+            name: "Ceylan Nas",
+            profilePic: "https://images.unsplash.com/profile-1514314150006-d45faa15253f?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/cylnnas",
+            totalPhotos: 2,
+        },
+    },
+    {
+        talay13: {
+            id: "rb_xNdEoIWE",
+            name: "Talay Nas",
+            profilePic: "https://images.unsplash.com/profile-1649403444523-69934f36946cimage?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/talay13",
+            totalPhotos: 2,
+        },
+    },
+    {
+        nas_h: {
+            id: "ZjLnRDGQysE",
+            name: "Nas H",
+            profilePic: "https://images.unsplash.com/placeholder-avatars/extra-large.jpg?ixlib=rb-1.2.1&crop=faces&fit=crop&w=32&h=32",
+            profileUrl: "https://api.unsplash.com/users/nas_h",
+            totalPhotos: 2,
+        },
+    },
+];
 ```
 <br/>
 <br/>
