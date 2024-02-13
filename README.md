@@ -81,3 +81,20 @@ ______________________________________
 
 
 [QUESTION.md](https://github.com/jagannath-swarnkar/docs/blob/master/QUESTIONS.md)
+
+# Install Dependencies 
+### for nodejs | Next.js | React js deployment on aws ubuntu server
+
+Added a script to install all dependencies for node/react depoly to ubuntu server.
+
+you can download this script with this url on terminal
+
+`wget https://github.com/jagannath-swarnkar/docs/releases/download/1.0.0/install_dependencies.sh`
+
+then you can run this bash file on your terminal by 
+`bash install_dependencies.sh` or `./install_dependencies.sh` 
+
+if there is any permission error you can use this and try again.
+`chmod +x install_dependencies.sh`
+
+Note: This script will install `node:20`, `npm`, `nginx`, & `pm2`.
