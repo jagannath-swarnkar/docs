@@ -13,7 +13,7 @@ Note:
 
 here are other images link
 
-- coffee seeds: https://imgur.com/LBo3aQg.png
-- coffee mug: https://imgur.com/LBo3aQg.png
-- coffee cup: https://imgur.com/ISjDRXq.png
-- full UI: https://imgur.com/7GU4EbU.png
+- coffee seeds: [https://imgur.com/LBo3aQg.png](https://imgur.com/LBo3aQg.png)
+- coffee mug: [https://imgur.com/rG8AHni.png](https://imgur.com/rG8AHni.png)
+- coffee cup: [https://imgur.com/ISjDRXq.png](https://imgur.com/ISjDRXq.png)
+- full UI: [https://imgur.com/7GU4EbU.png](https://imgur.com/7GU4EbU.png)
